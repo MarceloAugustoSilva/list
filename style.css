@@ -9,3 +9,8 @@ body {
    ul li {
     margin-bottom: 10px;
    }
+   .centro {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
